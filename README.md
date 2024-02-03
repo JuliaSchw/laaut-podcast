@@ -35,3 +35,10 @@ You can use the following commands:
 - `npm run start` to start a production server
 - `npm run test` to run the tests
 - `npm run lint` to run the linter
+
+### Used Libraries
+
+- `styled components` for css styled components
+- `react spring` for animations
+- `zustand` for state management in react
+- `use gesture` for mouse and touch events
