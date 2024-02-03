@@ -34,9 +34,11 @@ You can use the following commands:
 - `npm run test` to run the tests
 - `npm run lint` to run the linter
 
-### Used Libraries
+### Used Libraries and Hooks
 
 - `styled components` for css styled components
 - `react spring` for animations
 - `zustand` for state management in react
 - `use gesture` for mouse and touch events
+- `useContext` Hook for Prop Drilling
+- `useForm` Hook for better HTML Forms 
